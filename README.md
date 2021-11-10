@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Here I am in a few bullet points:
-- Master's student in Data Science at EPFL, Switzerland.
-- Supporting personal data literacy and building data experiences at [Hestia.ai](https://hestia.ai/).
+- Master's student in Data Science at EPFL, Switzerland
+- Working on my master's project about de-identification of unstructured electronic health records at the CHUV Data Science Lab
+- Supporting personal data literacy and building data experiences at [Hestia.ai](https://hestia.ai/)
 - Author of the [Icelandic Bahá’í Web Library](https://bokasafn.bahai.is/)
 - Interested in
   * data analysis
