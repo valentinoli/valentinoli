@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- I’m currently studying Data Science at EPFL, Switzerland. This summer I am doing an internship at [HestiaLabs](https://hestialabs.org/en/) about building data collectives to support personal data rights.
-- I’m the author of the [EPFL CourseNet](http://epfl-coursenet.herokuapp.com/) and the [Icelandic Bahá’í Web Library](https://bokasafn.bahai.is/)
-- I’m interested in
+Here I am in a few bullet points:
+- Master's student in Data Science at EPFL, Switzerland.
+- Supporting personal data literacy and building data experiences at [Hestia.ai](https://hestia.ai/).
+- Author of the [Icelandic Bahá’í Web Library](https://bokasafn.bahai.is/)
+- Interested in
   * data analysis
   * machine learning
   * natural language processing
