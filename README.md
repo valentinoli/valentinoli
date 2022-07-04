@@ -4,7 +4,7 @@ Currently I am working on supporting personal data literacy and building data ex
 
 I am the author of the [Icelandic Bahá’í Web Library](https://bokasafn.bahai.is/)
 
-- Interested in
+I’m interested in...
   * data analysis
   * machine learning
   * natural language processing
