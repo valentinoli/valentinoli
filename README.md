@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am working on supporting personal data literacy and building data experiences at [Hestia.ai](https://hestia.ai/)
+Currently, I work at Novo Nordisk where, as part of the Content Digitalisation team, I develop solutions for automating the creation of critical clinical study documents required for submission to regulatory authorities. 
 
 I am the author of the [Icelandic Bahá’í Web Library](https://bokasafn.bahai.is/)
 
