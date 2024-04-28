@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work at Novo Nordisk where I create solutions to automatically generate vital clinical trial documents required for submission to regulatory authorities. 
+I currently work at Novo Nordisk where I create solutions to automate the generation of clinical trial documents required for submission to regulatory authorities. 
 
 I am also the author of the [Icelandic Bahá’í Web Library](https://bokasafn.bahai.is/).
 
